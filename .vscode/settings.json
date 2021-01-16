@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "wave_draw/README.md": true,
+    "wave_draw/package.json": true,
+    "wave_draw/package-lock.json": true,
+    "wave_draw/.gitignore": true,
+    "wave_draw/.eslintcache": true,
+    "wave_draw/src/setupTests.js": true,
+    "wave_draw/src/reportWebVitals.js": true,
+    "wave_draw/src/logo.svg": true,
+    "wave_draw/src/index.css": true,
+    "wave_draw/src/*App.test": true,
+    "wave_draw/src/*logo": true,
+    "wave_draw/src/*logo.*": true,
+    "wave_draw/src/*reportWebVitals": true,
+    "wave_draw/src/*reportWebVitals.*": true,
+    "wave_draw/src/*setupTests": true,
+    "wave_draw/src/*setupTests.*": true,
+    "wave_draw/src/App.test.js": true
+  }
+}
